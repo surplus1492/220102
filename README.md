@@ -13,3 +13,4 @@
          * [영어판](https://github.com/surplus1492/Ai_Project/blob/main/vim-commands-cheat-sheet-by-pnap.pdf)
 
 - [x] 과제
+- [ ] 점검
