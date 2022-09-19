@@ -11,6 +11,3 @@
      * vim 단축키
          * [한글판](https://github.com/surplus1492/Ai_Project/blob/main/VIM%20Cheat%20Sheet.pdf)
          * [영어판](https://github.com/surplus1492/Ai_Project/blob/main/vim-commands-cheat-sheet-by-pnap.pdf)
-
-- [x] 과제
-- [ ] 점검
