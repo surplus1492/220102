@@ -7,7 +7,7 @@ except IOError:
     sys.exit()
 
 print("Enter '",file_finish,)
-print "' When finished"
+print ("' When finished")
 while file_text != file_finish:
     file_text =raw_input("Enter text: ")
     if file_text == file_finish:
