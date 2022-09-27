@@ -1,7 +1,9 @@
 import sys
 
 list=[1,2,3,4]
+
 it=iter(list)
+
 print(next(it))
 
 for x in it:
@@ -11,7 +13,8 @@ while True:
     try:
         print(next(it))
     except StopIteration:
-        sys.exit()
+        #sys.exit()
+        break
 
 def fibonacci(n):
     a,b,counter=0,1,0
