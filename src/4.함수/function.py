@@ -6,6 +6,7 @@ def printme(str):
 printme("This is first call to the user defined function!")
 printme("Again second call to the same function")
 
+#####################################################
 
 def changeme(mylist):
     "This change a passed list into this function"
@@ -19,6 +20,7 @@ mylist=[10,20,30]
 changeme(mylist)
 print("Values outside the funciton: ",mylist)
 
+#######################################################
 
 def changeme1(mylist):
     "This change a passed list into this function"
@@ -30,6 +32,7 @@ mylist1=[10,20,30]
 changeme1(mylist)
 print("Values outside the funciton: ",mylist1)
 
+#####################################################
 
 def printme1(str):
     "This prints a passed string into this function"
@@ -38,6 +41,7 @@ def printme1(str):
 
 printme1()
 
+######################################################
 
 def printme2(str):
     "This prints a passed string into this function"
@@ -46,6 +50,7 @@ def printme2(str):
 
 printme2(str="My string")
 
+#######################################################
 
 def printinfo(name,age):
     "This prints a passed info into this function"
@@ -55,6 +60,7 @@ def printinfo(name,age):
 
 printinfo(age=50, name="miki")
 
+######################################################
 
 def printinfo1(name,age=25):
     "This prints a passed info into this function"
@@ -65,6 +71,7 @@ def printinfo1(name,age=25):
 printinfo1(age=50, name="miki")
 printinfo1(name="miki")
 
+####################################################
 
 def printinfo2(arg1,*vartuple):
     "This prints a variable passed arguments"
@@ -78,12 +85,14 @@ def printinfo2(arg1,*vartuple):
 printinfo2(10)
 printinfo2(70,60,50)
 
+######################################################
 
 sum=lambda arg1,arg2:arg1+arg2
 
 print("Value of total : ",sum(10,20))
 print("Value of total : ",sum(20,20))
 
+######################################################
 
 def sum1(arg1,arg2):
     total=arg1+arg2
@@ -93,6 +102,7 @@ def sum1(arg1,arg2):
 total=sum1(10,20)
 print("Outsided the function : ",total)
 
+######################################################
 
 total1=0
 
