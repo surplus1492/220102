@@ -32,11 +32,15 @@ print("Again read String is : ",str)
 fo.close()
 
 
+test=open("test1.txt","w")
+test.write("buffer")
+test.close()
+
 import os
 os.rename("test1.txt", "test2.txt")
 
 import os
-os.remove("text2.txt")
+os.remove("test2.txt")
 
 import os
 os.mkdir("test")
