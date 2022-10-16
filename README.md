@@ -3,7 +3,7 @@
 #### 22년 Ai제어실습 프로젝트
 ###### 2217110189 김영현
 
-! (https://github.com/surplus1492/Ai_Project/blob/main/%EA%B9%80%EC%98%81%ED%98%84-1.jpg)
+![logo] (https://github.com/surplus1492/Ai_Project/blob/main/%EA%B9%80%EC%98%81%ED%98%84-1.jpg)
 
 > 학력
 >>+ 창원중앙고 졸업
