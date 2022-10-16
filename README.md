@@ -24,3 +24,8 @@
     1. [기본기능](https://github.com/surplus1492/Ai_Project/tree/main/src/1.basic)
     1. [조건문](https://github.com/surplus1492/Ai_Project/tree/main/src/2.if)
     1. 반복문
+
+```
+입력문
+print("출력 문구")
+```
