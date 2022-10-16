@@ -31,8 +31,7 @@
     1. [조건문](https://github.com/surplus1492/Ai_Project/tree/main/src/2.if)
     1. 반복문
 
-```
-입력문
+```python
 void main(){
     print("출력 문구")
 }
