@@ -1,7 +1,8 @@
 # Ai_Project
 
 #### 22년 Ai제어실습 프로젝트
-###### 2217110189 김영현
+
+## 2217110189 김영현
 
 ![logo](https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_266263_16480620634983755.jpg)
 
