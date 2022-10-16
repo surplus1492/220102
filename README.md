@@ -3,7 +3,7 @@
 #### 22년 Ai제어실습 프로젝트
 ###### 2217110189 김영현
 
-![logo](http://webzine.koita.or.kr/storage/app/public/media/public/media_library/28/82/202205041824312936a49f053b32b03764b2da36671f813e044651.jpg)
+![logo](http://webzine.koita.or.kr/storage/app/public/media/public/media_library/c9/4f/202205041824089180bfc1de0bcfcd82f24d0aa80e42a3bdc238a0.jpg)
 
 > 학력
 >>+ 창원중앙고 졸업
