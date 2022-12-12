@@ -23,6 +23,10 @@
 
 ------------------------------
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rTvhm_K1tb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+------------------------------
+
 * vim
      * vim 단축키
          * [한글판](https://github.com/surplus1492/Ai_Project/blob/main/VIM%20Cheat%20Sheet.pdf)
