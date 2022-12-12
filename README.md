@@ -25,13 +25,6 @@
 
 
 
-https://user-images.githubusercontent.com/83202843/207037265-4c2bf426-f69a-4c2b-984b-8b69c608df33.mp4
-
-
-
-
-
-
 ------------------------------
 
 * vim
