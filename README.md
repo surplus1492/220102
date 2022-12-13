@@ -24,6 +24,7 @@
 ------------------------------
 
 [시연 영상](https://youtu.be/rTvhm_K1tb8)
+
 [폴더](https://github.com/surplus1492/Ai_Project/tree/main/AI)
 
 ------------------------------
